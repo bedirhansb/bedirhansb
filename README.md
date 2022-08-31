@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bedirhansb
-- 🌱 I’m currently learning Python, C
+- 🌱 I’m currently learning Html,Css,JavaScript,Python, C
 - 📫 How to reach me instagram.com/bedirhansb
 
 <!---
